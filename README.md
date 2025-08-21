@@ -65,8 +65,9 @@ Provide a tabular grid that displays the sales trend for each company. The grid 
 ### 6.	Details Grid Showing All Car Sales Information:
 Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc
 # DashBoards
-git add images/screenshot.png
-git commit -m "[CarSales Overview](https://github.com/reddysekhar3524-ship-it/CarSales/blob/main/Screenshot%202025-08-21%20105956.png)"
-git commit -m "[CarSales Details](https://github.com/reddysekhar3524-ship-it/CarSales/blob/main/Screenshot%202025-08-21%20110142.png)"
-git push
+
+[CarSales Overview](https://github.com/reddysekhar3524-ship-it/CarSales/blob/main/Screenshot%202025-08-21%20105956.png)
+
+[CarSales Details](https://github.com/reddysekhar3524-ship-it/CarSales/blob/main/Screenshot%202025-08-21%20110142.png)
+
 
